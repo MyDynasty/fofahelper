@@ -1,19 +1,16 @@
 # fofahelper
-一个fofa搜索辅助小工具
+一个fofa搜索辅助小工具，**在原版基础上增加导出等功能**
+
 ## 配置文件 
 修改fofa.exe同目录下fofa.ini配置文件，格式如下：
 ```
 {
     "email": "xxx@mail.com",
-    "key": "xxxxxxxxxxxxxxxxxxxxxxxx",
-    "page": "1",
-    "size": "100"
+    "key": "xxxxxxxxxxxxxxxxxxxxxxxx"
 }
-```  
+```
 ## 效果 
-![avatar](https://raw.githubusercontent.com/x51/fofahelper/main/FOFA.png)
-## 待完善  
-漏洞探测模板化
-![avatar](https://raw.githubusercontent.com/x51/fofahelper/main/POC.png)  
-## 感谢  
-https://github.com/HandyOrg/HandyControl
+![FOFA-GUI](FOFA-GUI.png)
+## 感谢
+> https://github.com/x51/fofahelper
+>
